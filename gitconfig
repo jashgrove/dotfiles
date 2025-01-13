@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jasperashgrove@gmail.com
+	name = Jasper Ashgrove
